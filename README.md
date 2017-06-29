@@ -1,7 +1,7 @@
 # core
 [![Build Status](https://travis-ci.org/kuyoonjo/ycjs-core.svg?branch=master)](https://travis-ci.org/kuyoonjo/ycjs-core)
 [![codecov](https://codecov.io/gh/kuyoonjo/ycjs-core/branch/master/graph/badge.svg)](https://codecov.io/gh/kuyoonjo/ycjs-core)
-[![npm version](https://badge.fury.io/js/@ycjs/core.svg)](http://badge.fury.io/js/@ycjs/core)
+[![npm version](https://badge.fury.io/js/@ycjs/core.svg)](https://badge.fury.io/js/%40ycjs%2Fcore.svg)
 [![devDependency Status](https://david-dm.org/kuyoonjo/ycjs-core/dev-status.svg)](https://david-dm.org/kuyoonjo/ycjs-core?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/kuyoonjo/ycjs-core.svg)](https://github.com/kuyoonjo/ycjs-core/issues)
 [![GitHub stars](https://img.shields.io/github/stars/kuyoonjo/ycjs-core.svg)](https://github.com/kuyoonjo/ycjs-core/stargazers)
